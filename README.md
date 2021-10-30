@@ -39,7 +39,7 @@ source ~/.advanced-testing/bin/activate
 2. Create scaffold
 
 ```bash
-touch Makefile && touch test_hello.py && touch hello.py. && requirements.txt
+touch Makefile && touch test_hello.py && touch hello.py. && touch requirements.txt
 ```
 
 3.  Populate `Makefile`
